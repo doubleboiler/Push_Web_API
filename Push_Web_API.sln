@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Push_Web_API", "Push_Web_API\Push_Web_API.csproj", "{39640F1A-4E5E-438E-AE2F-90EB8534DB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39640F1A-4E5E-438E-AE2F-90EB8534DB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39640F1A-4E5E-438E-AE2F-90EB8534DB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39640F1A-4E5E-438E-AE2F-90EB8534DB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39640F1A-4E5E-438E-AE2F-90EB8534DB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F589862B-2213-4BF0-9410-4C5F2FEAF38D}
+	EndGlobalSection
+EndGlobal
